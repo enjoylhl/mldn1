@@ -30,6 +30,7 @@ public class Hello implements IDeptService {
 	}
 	
 	public static void main(String[] args){
+		//代码注释模块
 		System.out.println("666");
 		System.out.println("www");
 		System.out.println("12345");
