@@ -26,6 +26,10 @@ public class Hello implements IDeptService {
 	@Override
 	public List<Dept> list() {
 		return this.deptDAO.findAll();
+		System.out.println("www");
 	}
-
+	
+	public static void main(String[] args){
+		System.out.println("Hello Yootk");
+	}
 }
