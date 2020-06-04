@@ -35,6 +35,7 @@ public class Hello implements IDeptService {
 		System.out.println("www");
 		System.out.println("12345");
 		System.out.println("sdsssd");
-		System.out.println("ddddd");
+		System.out.println("......!!!");
+		
 	}
 }
